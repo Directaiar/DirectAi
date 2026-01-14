@@ -1,0 +1,18 @@
+Time : 2025-10-20-16-09-39
+/proc/touchpanel/debug_info/main_register
+es_enable:0
+touch_count:0
+/proc/touchpanel/debug_info/self_delta
+Not support self_delta proc node
+/proc/touchpanel/debug_info/delta
+diff_data:
+get data failed
+/proc/touchpanel/debug_info/self_raw
+Not support self_raw proc node
+/proc/touchpanel/debug_info/baseline
+raw_data:
+get data failed
+/proc/touchpanel/debug_info/data_limit
+Not support limit_data proc node
+/proc/touchpanel/debug_info/reserve
+Not support main_register proc node
